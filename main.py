@@ -10,6 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, r2_score
 
 # Find a way to download Datasets!!!!!
+# Use basketball-reference for datasets
 data = pd.read_csv('wnba_totals_sample.csv')
 
 # Preview data
