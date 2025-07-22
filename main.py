@@ -1,5 +1,5 @@
 # WNBA Over/Under Prediction Model
-
+# Edited from NBA to WNBA since WNBA in currently in season and NBA is not. Will be able to test if model can accurate obtain profits long/short-term
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
